@@ -1,6 +1,5 @@
 - 👋 hey there, I’m Natnael
-- 🌱 I’m currently practicing JavaScript & React 
-- 💞️ I’m looking to collaborate on new start-ups 
+- 🌱 I’m currently making my final year project using Flutter, Laravel, React
 - 📫 reach me www.telegram.me/negusnati  or www.twitter.com/negusnati
 
 <!---
