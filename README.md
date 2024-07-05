@@ -1,5 +1,5 @@
 - 👋 hey there, I’m Natnael
-- 📫 reach me www.telegram.me/negusnati  or www.twitter.com/negusnati
+- 📫 reach me www.t.me/negusnati
 
 <!---
 NegusNati/NegusNati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
