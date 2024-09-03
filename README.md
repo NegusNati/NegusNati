@@ -5,7 +5,7 @@
 
 - 👋 hey there, I’m **Natnael**
 - 💻 Software Engineer  
-- 📫 reach me at  [Hi Natnael](www.t.me/negusnati)
+- 📫 reach me at  [Hi Natnael](https://t.me/negusnati)
 
 
   
