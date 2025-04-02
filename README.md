@@ -6,25 +6,10 @@
 ---------------------------------------------------------------------
 - 👋 hey there, I’m **Natnael**
 - 💻 A Senior Software Engineer in Addis
-- 🚧 Check out what i am building these days  [Passport.ET](https://passport.et/),  [Victor ERP/App](https://app.victor-door.com/)
-- 🌐 Also see my [Natnael's Portfolio](https://natnael.passport.et/)
+- 🚧 Check out what I am building these days  [Passport.ET](https://passport.et/),  [Victor ERP/App](https://app.victor-door.com/) ,   [AddisFinancial](https://test.addisfinancial.com/)
+- 🌐 Also see [My Portfolio](https://natnael.passport.et/)
 - 📫 You can reach me at  [Hi Natnael](https://t.me/negusnati)
 --------------------------------------------------------------------- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
